@@ -42,7 +42,7 @@ public class Localiza {
 		metodos.clicar(el.continuar);
 		metodos.pause(3000);
 		//metodos.scroll(0, 350);
-		
+		//gitHub
 
 		
 
